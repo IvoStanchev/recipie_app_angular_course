@@ -1,4 +1,4 @@
-# recipie_app_angular_course
+# Recipe Angular app 
 This is an Angular recipe app following the an online Udemy course
 
 
