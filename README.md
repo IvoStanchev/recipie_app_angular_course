@@ -1,9 +1,10 @@
-Recipe Angular app
-This is an Angular recipe app following the an online Udemy course
+### Angular Udemy course.
+
+This is an Angular recipe app.
 
 - 1 Download repo
-- 2 Install dependencies with yarn or npm
-- 3 ng serve
+- 2 Install dependencies with `yarn or npm`
+- 3 `ng serve`
 - 4 access on http://localhost:4200/
 
 * To load the data from the database use the Fetch Data option from the Manage button. 
